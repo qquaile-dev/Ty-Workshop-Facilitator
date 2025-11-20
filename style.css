@@ -1,0 +1,69 @@
+/* Main header section */
+#Spotify {
+    background-color: rgb(30, 215, 96);
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Section containing the search box */
+#FindYourSong {
+    background-color: rgb(30, 215, 96);
+    color: rgb(18, 18, 18);
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(30, 215, 96);
+    color: rgb(18, 18, 18);
+    min-height: 100vh;
+}
+
+#placeholder {
+    background-color: rgb(30, 215, 96);
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Spotify logo */
+#spotifylogo {
+    margin: 0 auto;
+    display: block;
+    max-width: 200px;
+    height: auto;
+    padding-bottom: 10px;
+}
+
+/* Search bar + button */
+#search {
+    border-radius: 5px;
+    height: 37px;
+    display: inline-block;
+}
+
+#find_btn {
+    height: 37px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+/* Links (like "Listen" buttons) */
+.link {
+    background-color: rgb(30, 215, 96);
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+}
+
+.link a {
+    text-decoration: none;
+    color: rgb(18, 18, 18);
+    display: inline-block;
+    padding: 6px 12px;
+    font-weight: bold;
+}
