@@ -58,7 +58,7 @@ Here are typical issues students may encounter, and how you can help:
 
 ---
 
-## Tips for Facilitators  
+## Tips for Facilitators if a student is finishes early
 
 - Encourage students to check what they have made with each change to ensure it works as they intended.
 - Introduce **extension ideas**: Once students have the basics working, suggest bonus challenges like: a loading spinner, no-results message, animations, more complex UI, etc.
