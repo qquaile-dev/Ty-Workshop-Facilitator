@@ -35,9 +35,9 @@ Here’s a suggested breakdown for the session :
 | **Introduction & Setup**  | Introduce the project, explain high-level goals, and share how to access the starter template. Confirm everyone can run the base setup.                                    |
 | **Quest 1–3**             | Students add the heading, style the button with Bootstrap, duplicate the card markup. Walk around to check their HTML structure, confirm ID naming.                        |
 | **Quest 4**               | Demonstrate reading from an input field and logging the query. Encourage students to test capturing the search text.                                                       |
-| **Quest 5 **              | Help students hide the placeholder on search                                                                                                                               |
+| **Quest 5**              | Help students hide the placeholder on search                                                                                                                               |
 | **Quest 6**               | Guide students through making the API call, iterating through the response, and populating each result card. Help with debugging if IDs don’t match or data is unexpected. |
-| **Quest 7 **              | reveal the results section once it’s ready. Explain the logic behind showing/hiding elements.                                                                              |
+| **Quest 7**              | reveal the results section once it’s ready. Explain the logic behind showing/hiding elements.                                                                              |
 | **Demo & Reflection**<br> | Invite students to demonstrate their working mini-apps. Facilitate a short discussion: what was hard, what worked, and what would they build next (bonus ideas).<br>       |
 
 ---
