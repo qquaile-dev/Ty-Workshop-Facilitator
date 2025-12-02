@@ -2,7 +2,9 @@
 
 ## Purpose & Overview  
 This mini-project is designed to teach students how to build a simple web app using HTML, CSS, JavaScript, and the Spotify Web API. 
+
 This will be done using [jsfiddle](https://jsfiddle.net/) to ensure all students have the same environment and do not need to download anything
+
 During the workshop, students will:
 
 - Build a search interface for Spotify tracks  
